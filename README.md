@@ -6,7 +6,7 @@ Cài đặt nodejs từ <a href="https://nodejs.org/en/download/">https://nodejs
 # Bước 2:
 Chạy lệnh
 ```base
-git clone https://github.com/thiensu99/cronjob.git
+git clone https://github.com/thiensu99/cron-job.git
 ```
 
 # Bước 3:
